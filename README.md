@@ -46,16 +46,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AJAmran&theme=radical&show_icons=true&count_private=true" height="165px" />
-  <img src="https://streak-stats.demolab.com/?user=AJAmran&theme=radical" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NitinSemwal2605&theme=midnight-purple&show_icons=true&hide=issues" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinSemwal2605&layout=compact&theme=midnight-purple" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAmran&layout=compact&theme=radical&langs_count=8" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSemwal2605&theme=midnight-purple" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NitinSemwal2605&theme=radical&no-frame=true&no-bg=true&row=1&column=6" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AJAmran&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitinSemwal2605&theme=react-dark&hide_border=true&area=true" width="95%"/>
 </p>
 
 ## 🔥 Profile Views
