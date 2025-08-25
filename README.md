@@ -9,34 +9,39 @@
 </p>
 
 ---
-### Main Techonologies:
+## 🛠️ Tech Stack
 
-<div style="display:flex">
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" color="white" alt="reactjs"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>    
-</div>
-  
-### Technologies that i've worked before:
+<table>
+  <tr>
+    <td><strong>💻 Languages</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=cpp,java,c,js,ts&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🗃️ Databases</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🌐 Frontend</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🧰 Backend</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>☁️ Deployment</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,aws&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🛠 DevOps</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,jenkins&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Design</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva&theme=dark"></td>
+  </tr>
+</table>
 
-<div style="display:flex">
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="android"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" alt="rails"/>    
-</div>
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## 📊 GitHub Stats
 
