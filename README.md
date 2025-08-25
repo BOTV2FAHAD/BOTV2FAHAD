@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/AJAmran">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06D6A0&center=true&vCenter=true&lines=Hello,+I'm Fahad Islam!;Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+about+Tech!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06D6A0&center=true&vCenter=true&lines=Hello,+I'm+Fahad+Islam!;Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+about+Tech!" alt="Typing SVG" />
   </a>
 </p>
 
