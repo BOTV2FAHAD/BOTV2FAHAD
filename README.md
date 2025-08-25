@@ -8,7 +8,7 @@
   </a>
 </p>
 
-
+---
 ### Main Techonologies:
 
 <div style="display:flex">
@@ -66,3 +66,8 @@
 <img src="https://raw.githubusercontent.com/nazrul4x/nazrul4x/output/snake.svg" alt="Snake animation" />
 
 ###
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AJAmran&label=Profile%20Views&color=06D6A0&style=flat" />
+</p>
