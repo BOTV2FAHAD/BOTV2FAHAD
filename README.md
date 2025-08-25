@@ -1,6 +1,14 @@
 ![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm Fahad Islam</h1>
 
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/AJAmran">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=06D6A0&center=true&vCenter=true&lines=Hello,+I'm Fahad Islam!;Full+Stack+Web+Developer;MERN+Stack+Specialist;Passionate+about+Tech!" alt="Typing SVG" />
+  </a>
+</p>
+
+
 ### Main Techonologies:
 
 <div style="display:flex">
